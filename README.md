@@ -22,4 +22,4 @@ Este notebook contiene el análisis exploratorio y visualización de datos del c
 
 ## Créditos
 - Datos: CheXpert Dataset
-- Autor: Gema Zambrano
+
